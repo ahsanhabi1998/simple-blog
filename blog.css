@@ -1,0 +1,94 @@
+.section-1 {
+    background-image: url(all-img/bg-blog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin: 50px 90px;
+}
+.hat-tex{
+    width: 50%;
+    height: 100px;
+    background-color: skyblue;
+    margin: auto;
+    border-radius: 10px;
+    transform:translatey(-75px);
+}
+.hat-tex p{
+    padding: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn{
+    background-color: aquamarine;
+    border-radius: 10px; 
+    border: 2px solid;
+    
+}
+.hat-tex a{
+   text-decoration: none;
+   color: darkorange;
+   font-size: 25px;
+   font-weight: 500;
+   padding: 10px;
+   margin-left: 40%;
+}
+.section-2{
+    background-image: url(all-img/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin:50px 200px;
+    border-radius: 10px;
+}
+.body-text{
+    width: 80%;
+    margin: auto;
+
+}
+.body-text p{
+    text-align: center;
+    padding: 15px;
+   font-size: 20px;
+   text-align: justify;
+}
+.body-text small a{
+    text-decoration: none;
+}
+
+.section-3{
+    background-image: url(all-img/bg-grapes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    margin:50px 180px;
+    border-radius: 10px;
+}
+.text-card{
+    width: 80%;
+    margin: auto;
+    box-shadow:5px 5px 5px 5px rgb(179, 197, 197);
+    border-radius: 10px;
+}
+.text-card p{
+    text-align: center;
+    text-align: justify;
+    padding: 10px 10px 10px 50px;
+    font-size: 20px;
+}
+.icon{
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    transform:translatey(-200px);
+}
+.icon h1{
+    font-size: 50px;
+}
+.footer-icon {
+   margin: 10%;
+}
+.footer-icon i{
+    margin: 30px;
+    font-size: 30px;
+}
